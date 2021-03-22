@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/bhaukaal-app-web-download/static/css/main.d2966498.chunk.css",
+    "main.js": "/bhaukaal-app-web-download/static/js/main.47158732.chunk.js",
+    "main.js.map": "/bhaukaal-app-web-download/static/js/main.47158732.chunk.js.map",
+    "runtime-main.js": "/bhaukaal-app-web-download/static/js/runtime-main.6c4be84c.js",
+    "runtime-main.js.map": "/bhaukaal-app-web-download/static/js/runtime-main.6c4be84c.js.map",
+    "static/js/2.f6568220.chunk.js": "/bhaukaal-app-web-download/static/js/2.f6568220.chunk.js",
+    "static/js/2.f6568220.chunk.js.map": "/bhaukaal-app-web-download/static/js/2.f6568220.chunk.js.map",
+    "index.html": "/bhaukaal-app-web-download/index.html",
+    "static/css/main.d2966498.chunk.css.map": "/bhaukaal-app-web-download/static/css/main.d2966498.chunk.css.map",
+    "static/js/2.f6568220.chunk.js.LICENSE.txt": "/bhaukaal-app-web-download/static/js/2.f6568220.chunk.js.LICENSE.txt",
+    "static/media/bhaukaal.b485887f.jpeg": "/bhaukaal-app-web-download/static/media/bhaukaal.b485887f.jpeg",
+    "static/media/new.6ccb1669.mp4": "/bhaukaal-app-web-download/static/media/new.6ccb1669.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6c4be84c.js",
+    "static/js/2.f6568220.chunk.js",
+    "static/css/main.d2966498.chunk.css",
+    "static/js/main.47158732.chunk.js"
+  ]
+}

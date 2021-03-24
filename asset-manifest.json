@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/bhaukaal-app-web-download/static/css/main.d2966498.chunk.css",
-    "main.js": "/bhaukaal-app-web-download/static/js/main.1b1780d0.chunk.js",
-    "main.js.map": "/bhaukaal-app-web-download/static/js/main.1b1780d0.chunk.js.map",
+    "main.js": "/bhaukaal-app-web-download/static/js/main.055607e3.chunk.js",
+    "main.js.map": "/bhaukaal-app-web-download/static/js/main.055607e3.chunk.js.map",
     "runtime-main.js": "/bhaukaal-app-web-download/static/js/runtime-main.6c4be84c.js",
     "runtime-main.js.map": "/bhaukaal-app-web-download/static/js/runtime-main.6c4be84c.js.map",
     "static/js/2.f6568220.chunk.js": "/bhaukaal-app-web-download/static/js/2.f6568220.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.6c4be84c.js",
     "static/js/2.f6568220.chunk.js",
     "static/css/main.d2966498.chunk.css",
-    "static/js/main.1b1780d0.chunk.js"
+    "static/js/main.055607e3.chunk.js"
   ]
 }
